@@ -4,6 +4,8 @@ import Fonts from '../fonts'
 import { theme } from '../themes/theme'
 import '../styles/glass.css'
 
+
+
 function MyApp({ Component, pageProps }: AppProps) {
   return (
     <ChakraProvider theme={theme}>
