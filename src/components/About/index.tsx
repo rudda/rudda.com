@@ -39,7 +39,7 @@ export function About() {
                             mb={{ base: '1rem', xl: '1.25rem' }}
                             textAlign={{ base: 'center', xl: 'initial' }}
                         >
-                            Olá,
+
                         </Text>
                         <Text
                             w={{ base: '95%', xl: '544px' }}
@@ -48,12 +48,8 @@ export function About() {
                             color='#8A8A8E'
                             margin={{ base: '0 auto' }}
                         >
-                            Lorem ipsum dolor sit amet, consectetur
-                            adipiscing elit. Facilisi laoreet quam habitant in
-                            id. Nunc morbi ullamcorper pellentesque ipsum
-                            vitae. Pharetra justo, tristique lacus scelerisque
-                            facilisis cursus metus, ultrices semper. Amet
-                            sed nec nulla est sed.
+                            Sólida experiência na criação de aplicativos Android, manutenção e publicação na Google Play Store.
+                            Experimente na portabilidade Android como Sistema Embarcado. Google Android Deveveloper Associate, criador de Conteúdo Tech e  Autor do Curso: Lógica de Programação em Kotlin
                         </Text>
                     </Flex>
                 </Flex>

@@ -41,28 +41,28 @@ export function Heading() {
                     textAlign={{ base: 'center', xl: 'initial' }}
                     mb='40px'
                 >
-                    Desenvolvedor Android Pleno com mais de
-                    5 anos de experiência.
+                   
                 </Text>
                 <Button
                     w='190px'
                     h='46px'
-                    bg='#585DE2'
+                    bg='#ff0000'
                     color='white'
+                    onClick={() => window.location.href = 'https://www.youtube.com/@ruddabeltrao'}
                     mb={{ base: '4rem', xl: '81px' }}
                 >
-                    Enviar email
+                    Youtube
                 </Button>
 
                 <Flex
                     align='center'
                     mb={{ base: '2rem', xl: '64px' }}
-                    flexDir={{ base: 'column', xl: 'row' }}
-                >
+                    flexDir={{ base: 'column', xl: 'row' }}>
                     <Flex
                         alignItems='baseline'
                         mr={{ base: '0', xl: '43px' }}
                         mb={{ base: '1rem', xl: '0' }}
+                        onClick={() => window.location.href = 'https://www.linkedin.com/in/ruddabeltrao/'}
                     >
                         <Image w='28px' h='28px' src='/img/linkedin.svg' alt="" />
                         <Text
@@ -78,6 +78,7 @@ export function Heading() {
                         alignItems='baseline'
                         mr={{ base: '0', xl: '43px' }}
                         mb={{ base: '1rem', xl: '-4px' }}
+                        onClick={() => window.location.href = 'https://www.medium.com/@ruddabeltrao'}
                     >
                         <Image w='41px' h='22.72px' src='/img/medium.svg' alt="" />
                         <Text
@@ -93,6 +94,7 @@ export function Heading() {
                         alignItems='baseline'
                         mr={{ base: '0', xl: '43px' }}
                         mb={{ base: '1rem', xl: '-4px' }}
+                        onClick={() => window.location.href = 'https://www.youtube.com/@ruddabeltrao'}
                     >
                         <Image w='35.08px' h='24px' src='/img/youtube.svg' alt="" />
                         <Text

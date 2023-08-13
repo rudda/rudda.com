@@ -34,8 +34,7 @@ export function Articles() {
                     mb='3rem'
                     textAlign={{ base: 'center', xl: 'initial' }}
                 >
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Facilisi laoreet quam habitant in id. Nunc
-                    morbi ullamcorper pellentesque ipsum vitae.
+
                 </Text>
                 <Flex
                     w={{ base: '95%', lg: '90%', xl: '1120px' }}
@@ -58,7 +57,7 @@ export function Articles() {
                             color='white'
                             mb='1.5rem'
                         >
-                            Sobre ciclo de performace de apliocações Android.</Text>
+                            Como desenvolver aplicativos Android | Not for Developers.</Text>
                         <Flex
                             justifyContent='space-between'
                             alignItems='center'
@@ -70,11 +69,12 @@ export function Articles() {
                                 borderRadius='16px'
                                 color='white'
                             >
-                                Científico
+                                Medium
                             </Text>
-                            <Link color='#585DE2' href='#'>Ler artigo</Link>
+                            <Link color='#585DE2' href='https://ruddabeltrao.medium.com/como-desenvolver-aplicativos-android-not-for-developers-953e8b0305ea'>Ler artigo</Link>
                         </Flex>
                     </Flex>
+
 
                     <Flex
                         w={{ base: '100%', xl: '529px' }}
@@ -93,7 +93,7 @@ export function Articles() {
                             color='white'
                             mb='1.5rem'
                         >
-                            Requisições HTTP com a Lib Network Connection.</Text>
+                            Autenticação oAuth2.0 Google Workspace| 4Beginners 👶| Parte I.</Text>
                         <Flex
                             justifyContent='space-between'
                             alignItems='center'
@@ -107,7 +107,7 @@ export function Articles() {
                             >
                                 Post
                             </Text>
-                            <Link color='#585DE2' href='#'>Ler artigo</Link>
+                            <Link color='#585DE2' href='https://ruddabeltrao.medium.com/autentica%C3%A7%C3%A3o-oauth2-0-google-workspace-4beginners-parte-i-fa886a7e2b16'>Ler artigo</Link>
                         </Flex>
                     </Flex>
                 </Flex>

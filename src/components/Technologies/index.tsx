@@ -25,8 +25,7 @@ export function Technologies() {
                 textAlign='center'
                 mb={{ base: '2rem', xl: '44px' }}
             >
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Facilisi laoreet quam habitant in id. Nunc
-                morbi ullamcorper pellentesque ipsum vitae.
+
             </Text>
 
             <Flex

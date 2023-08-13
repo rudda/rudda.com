@@ -81,20 +81,7 @@ export function RightNav({ open, setOpen }) {
                 >
                     <Link href='#articles'>Artigos</Link>
                 </Text>
-                <Text
-                    fontSize={"1rem"}
-                    color="white"
-                    p="0.5rem 1rem"
-                    mr={open ? "0" : "0"}
-                    _hover={{
-                        textDecoration: "none",
-                        color: headerColors.hoverColor,
-                        cursor: "pointer",
-                    }}
-                    onClick={() => setOpen(false)}
-                >
-                    <Link href='#experience'>Experiência</Link>
-                </Text>
+                
                 <Text
                     fontSize={"1rem"}
                     color="white"

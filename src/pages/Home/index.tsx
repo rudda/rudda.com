@@ -17,7 +17,6 @@ export default function Home() {
             <About />
             <AppsPublished />
             <Technologies />
-            <Experience />
             <Course />
             <Articles />
             <Footer />
